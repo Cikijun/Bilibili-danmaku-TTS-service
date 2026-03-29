@@ -169,7 +169,6 @@ ai_system_prompt = 自定义AI人设/互动规则
    用法：AI功能开启时（ai_enable=1）必填，需填写完整接口地址（含端口和路径），地址错误会导致AI无法连接
    必填（AI开启时）：是
    默认值：无
-   示例/备注：如百度智能云千帆平台接口地址（https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/ernie-4.0）、CloseAI代理地址（https://api.openai.com/v1）
 
 3. 配置项：ai_api_key
    功能：AI平台的接口调用密钥，用于验证调用权限
